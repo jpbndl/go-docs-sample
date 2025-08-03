@@ -2,7 +2,7 @@
 set -e
 
 SRC_BASE="./docs/localhost:6060"
-DEST_DIR="./out"
+DEST_DIR="./docsweb"
 
 HTML_SRC="$SRC_BASE/pkg/jayps.com/go-docs/user"
 LIB_SRC="$SRC_BASE/lib"
